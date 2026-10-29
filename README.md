@@ -78,5 +78,5 @@ This project is developed for educational purposes only. It is not a clinically 
 
 **Suyash Srivastava**
 
-GitHub: [@srivastavsyuyash](https://github.com/srivastavsyuyash)
+GitHub: [@srivastavsuyash](https://github.com/srivastavsyuyash)
 
